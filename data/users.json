@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "city": "Gwenborough",
+    "company": "Romaguera-Crona"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "email": "Shanna@melissa.tv",
+    "city": "Wisokyburgh",
+    "company": "Deckow-Crist"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "city": "McKenziehaven",
+    "company": "Romaguera-Jacobson"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "email": "Julianne.OConner@kory.org",
+    "city": "South Elvis",
+    "company": "Robel-Corkery"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "email": "Lucio_Hettinger@annie.ca",
+    "city": "Roscoeview",
+    "company": "Keebler LLC"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "email": "Karley_Dach@jasper.info",
+    "city": "South Christy",
+    "company": "Considine-Lockman"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "email": "Telly.Hoeger@billy.biz",
+    "city": "Howemouth",
+    "company": "Johns Group"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "email": "Sherwood@rosamond.me",
+    "city": "Aliyaview",
+    "company": "Abernathy Group"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "email": "Chaim_McDermott@dana.io",
+    "city": "Bartholomebury",
+    "company": "Yost and Sons"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "email": "Rey.Padberg@karina.biz",
+    "city": "Lebsackbury",
+    "company": "Hoeger LLC"
+  }
+]
